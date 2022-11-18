@@ -1,0 +1,17 @@
+body {
+	background-color: #333300;
+	color: #3e46a7;
+}
+
+div {
+	color: #ff334e;
+    text-align: center;
+    font: italic 200% fantasy;
+
+}
+
+input {
+    background-color: #FFFF33;
+    text-align: left;
+    border: 3px groove #FFFF33;
+}
